@@ -1,2 +1,3 @@
-# Script_Caja_OpenWithPluma
-Ouvre le fichier sélectionné avec le gestionnaire de fichiers pluma
+# Script OpenWithPluma
+
+A partir du gestionnaire de fichiers, ouvre le fichier sélectionné avec l'éditeur de texte Pluma.
